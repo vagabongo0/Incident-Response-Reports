@@ -34,7 +34,7 @@ The goal of this investigation was to identify malicious indicators, verify the 
 - **Wireshark:** DNS query for malicious domain observed.  
 - **CyberChef:** Decoded obfuscated HTML contained fake login redirect.
 
-*(Screenshots can be added here later in `/images`.)*
+
 ![Failed logons evidence](../images/eventviewer_4625.png)
 
 ---
